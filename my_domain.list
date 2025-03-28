@@ -44,3 +44,8 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-KEYWORD,discord
 DOMAIN-SUFFIX,discord.com
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,openai.com
